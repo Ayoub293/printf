@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * jandle_print - asdasd
+ * handle_print - asdasd
  * @fmt: asdasd
  * @list: asdasd
  * @ind: asdasd
